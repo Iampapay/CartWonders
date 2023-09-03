@@ -1,0 +1,14 @@
+<script src="{{ asset('user/assets/js/jquery-3.3.1.min.js') }}"></script>
+<script src="{{ asset('user/assets/js/bootstrap.min.js') }}"></script>
+<script src="{{ asset('user/assets/js/jquery.magnific-popup.min.js') }}"></script>
+<script src="{{ asset('user/assets/js/jquery-ui.min.js') }}"></script>
+<script src="{{ asset('user/assets/js/mixitup.min.js') }}"></script>
+<script src="{{ asset('user/assets/js/jquery.countdown.min.js') }}"></script>
+<script src="{{ asset('user/assets/js/jquery.slicknav.js') }}"></script>
+<script src="{{ asset('user/assets/js/owl.carousel.min.js') }}"></script>
+<script src="{{ asset('user/assets/js/jquery.nicescroll.min.js') }}"></script>
+<script src="{{ asset('user/assets/js/main.js') }}"></script>
+<script src="{{ asset('user/assets/user_interface_assets/js/header.js') }}"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.5/jquery.validate.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.js"></script>
